@@ -32,5 +32,5 @@ selenium==3.14.1
 sip==4.19.8
 six==1.11.0
 splinter==0.9.0
-urllib3==1.23
+urllib3==1.26.5
 wxpy==0.3.9.8
