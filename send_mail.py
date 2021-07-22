@@ -27,7 +27,7 @@ class MailManager(object):
 
         self.passWord = 'qpkjlskwxnnpbfaa'
 
-        self.bossMail = 'chenzhipeng3472@cvte.com'
+        # self.bossMail = 'chenzhipeng3472@xxx.com'
         # self.bossMail = '874298842@qq.com'
 
         self.login()
