@@ -25,7 +25,7 @@ pypng==0.0.18
 PyQRCode==1.2.1
 PyQt5==5.10.1
 pyserial==3.4
-pywin32==223
+pywin32==301
 requests==2.20.0
 scp==0.12.1
 selenium==3.14.1
